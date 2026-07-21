@@ -1,3 +1,4 @@
+# Triggers CI checks on pull requests to main
 name: Frontend Continuous Integration
 
 on:
